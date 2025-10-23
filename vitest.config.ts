@@ -19,6 +19,5 @@ export default defineConfig({
       shuffle: false,
       sequencer: Sequencer,
     },
-    globalSetup: "src/tests/setup.ts",
   },
 });
